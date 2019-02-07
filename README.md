@@ -1,6 +1,8 @@
 # Treasure Hunter
 
- This project has been implemented in `C` language in Data Structures lecture. 
+- This project has been implemented in `C` language in Data Structures lecture. 
+
+- I used **2D arrays** in my algorithm.
 
 ## RUN
 
