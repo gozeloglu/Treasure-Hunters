@@ -1,8 +1,6 @@
 # Treasure Hunter
 
- This project has been implemented in `C` language. 
-
-
+ This project has been implemented in `C` language in Data Structures lecture. 
 
 ## RUN
 
@@ -16,6 +14,10 @@
 
 `$ findtreasure 18x18 3 mapmatrix.txt keymatrix.txt output.txt` 
 
------
+---
 
 - The program creates the `output.txt` file.
+
+### Requirements
+
+- `gcc`compiler
